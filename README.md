@@ -2,6 +2,8 @@
 
 This script automates a LinkedIn job-search workflow from Chrome. It is intended to search for **Data Engineer / Data Engineering roles in the United States**, filter for jobs **posted today**, identify listings where the user is likely to be a strong or top applicant based on resume skills, and export the best matches into a spreadsheet.
 
+# Demo Link-: https://drive.google.com/file/d/14aMfInT0pT5DTAh8wbXEglQESXjYITpn/view?usp=sharing
+
 ## What the Script Does
 
 The workflow follows these high-level steps:
